@@ -1,0 +1,31 @@
+medication_id,medication_name,drug_class,route_of_administration,unit_price_inr,requires_prescription,common_diagnosis_ids
+M001,Metformin 500mg,Antidiabetic,Oral,12,Yes,D002
+M002,Metformin 1000mg,Antidiabetic,Oral,18,Yes,D002
+M003,Amlodipine 5mg,Antihypertensive,Oral,8,Yes,D001
+M004,Amlodipine 10mg,Antihypertensive,Oral,15,Yes,D001
+M005,Atorvastatin 10mg,Statin,Oral,20,Yes,D001
+M006,Atorvastatin 20mg,Statin,Oral,35,Yes,D003
+M007,Paracetamol 500mg,Analgesic,Oral,2,No,D004
+M008,Paracetamol 650mg,Analgesic,Oral,3,No,D021
+M009,Aspirin 75mg,Antiplatelet,Oral,5,Yes,D003
+M010,Aspirin 150mg,Antiplatelet,Oral,7,Yes,D003
+M011,Pantoprazole 40mg,PPI,Oral,22,Yes,D015
+M012,Omeprazole 20mg,PPI,Oral,18,Yes,D015
+M013,Amoxicillin 500mg,Antibiotic,Oral,10,Yes,D022
+M014,Azithromycin 500mg,Antibiotic,Oral,45,Yes,D004
+M015,Cefpodoxime 200mg,Antibiotic,Oral,35,Yes,D022
+M016,Ciprofloxacin 500mg,Antibiotic,Oral,15,Yes,D022
+M017,Lisinopril 5mg,ACE Inhibitor,Oral,25,Yes,D001
+M018,Lisinopril 10mg,ACE Inhibitor,Oral,40,Yes,D001
+M019,Losartan 50mg,ARB,Oral,30,Yes,D001
+M020,Losartan 100mg,ARB,Oral,55,Yes,D001
+M021,Levothyroxine 50mcg,Thyroid Hormone,Oral,12,Yes,D010
+M022,Levothyroxine 100mcg,Thyroid Hormone,Oral,20,Yes,D010
+M023,Salbutamol Inhaler,Bronchodilator,Inhalation,180,Yes,D011
+M024,Budesonide Inhaler,Corticosteroid,Inhalation,350,Yes,D011
+M025,Insulin Glargine,Insulin,Subcutaneous,450,Yes,D002
+M026,Insulin Aspart,Insulin,Subcutaneous,500,Yes,D002
+M027,Hydroxychloroquine 200mg,DMARD,Oral,60,Yes,D018
+M028,Methotrexate 10mg,DMARD,Oral,80,Yes,D018
+M029,Sertraline 50mg,Antidepressant,Oral,35,Yes,D040
+M030,Fluoxetine 20mg,Antidepressant,Oral,30,Yes,D040

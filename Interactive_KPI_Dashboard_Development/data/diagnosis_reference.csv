@@ -1,0 +1,51 @@
+diagnosis_id,diagnosis_name,icd10_code,specialty_category,avg_hospital_stay_days,is_chronic,severity_level
+D001,Hypertension,I10,Cardiology,2,Yes,High
+D002,Type 2 Diabetes Mellitus,E11,General Medicine,1,Yes,Medium
+D003,Acute Myocardial Infarction,I21,Cardiology,7,No,Critical
+D004,Dengue Fever,A97,General Medicine,7,No,Medium
+D005,Typhoid Fever,A01.0,General Medicine,8,No,Medium
+D006,Tuberculosis,A15,Pulmonology,21,Yes,High
+D007,Malaria,B50,General Medicine,2,No,Medium
+D008,Chronic Kidney Disease,N18,Nephrology,3,Yes,High
+D009,Iron Deficiency Anemia,D50,General Medicine,4,No,Medium
+D010,Hypothyroidism,E03,Endocrinology,6,Yes,Medium
+D011,Asthma,J45,Pulmonology,6,Yes,Medium
+D012,Chronic Obstructive Pulmonary Disease,J44,Pulmonology,2,Yes,High
+D013,Acute Appendicitis,K35,General Surgery,4,No,Low
+D014,Gallstones,K80,Gastroenterology,2,No,Medium
+D015,Peptic Ulcer Disease,K27,Gastroenterology,6,No,Medium
+D016,Stroke,I63,Neurology,14,No,Critical
+D017,Epilepsy,G40,Neurology,8,Yes,High
+D018,Rheumatoid Arthritis,M05,Orthopedics,5,Yes,Medium
+D019,Fracture – Femur,S72,Orthopedics,12,No,Medium
+D020,Osteoarthritis,M15,Orthopedics,5,Yes,Low
+D021,Acute Diarrheal Disease,A09,General Medicine,6,No,Low
+D022,Urinary Tract Infection,N39.0,General Medicine,2,No,Medium
+D023,Breast Cancer,C50,Oncology,5,Yes,Critical
+D024,Cervical Cancer,C53,Oncology,4,Yes,Critical
+D025,Lung Cancer,C34,Oncology,5,Yes,Critical
+D026,Cataracts,H26,Ophthalmology,5,No,High
+D027,Glaucoma,H40,Ophthalmology,8,No,Low
+D028,Psoriasis,L40,Dermatology,7,No,Medium
+D029,Eczema,L20,Dermatology,2,No,Low
+D030,Polycystic Ovary Syndrome,E28.2,Gynecology,6,No,Medium
+D031,Preeclampsia,O14,Gynecology,7,No,Medium
+D032,Pneumonia,J18,Pulmonology,6,No,High
+D033,COVID-19,U07.1,General Medicine,6,Yes,High
+D034,Chikungunya,A92.0,General Medicine,6,No,Low
+D035,Hepatitis B,B16,Gastroenterology,7,Yes,High
+D036,Hepatitis C,B17.1,Gastroenterology,5,Yes,High
+D037,Liver Cirrhosis,K74,Gastroenterology,10,Yes,Critical
+D038,Kidney Stone,N20,Nephrology,1,No,Medium
+D039,Benign Prostatic Hyperplasia,N40,Urology,2,No,Medium
+D040,Depression,F32,Psychiatry,5,Yes,Low
+D041,Anxiety Disorder,F41,Psychiatry,1,Yes,Low
+D042,Schizophrenia,F20,Psychiatry,5,Yes,Low
+D043,Childhood Asthma,J45,Pediatrics,4,No,Low
+D044,Acute Otitis Media,H66,ENT,4,No,Low
+D045,Tonsillitis,J03,ENT,5,No,Low
+D046,Sinusitis,J32,ENT,5,No,Low
+D047,Migraine,G43,Neurology,8,No,Medium
+D048,Sciatica,M54.4,Orthopedics,7,No,Medium
+D049,Hyperthyroidism,E05,Endocrinology,2,Yes,Low
+D050,Fatty Liver Disease,K76.0,Gastroenterology,6,Yes,Low

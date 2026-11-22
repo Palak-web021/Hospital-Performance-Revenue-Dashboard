@@ -1,0 +1,31 @@
+hospital_id,hospital_name,hospital_type,tier,state,total_beds,icu_beds,specialties_count,accreditation,established_year,annual_patient_capacity,emergency_services
+H001,AIIMS New Delhi,Government,Tertiary,Delhi,579,46,18,NABH,1953,144750,Yes
+H002,PGIMER Chandigarh,Government,Tertiary,Chandigarh,669,53,17,NABH & NABL,1967,167250,Yes
+H003,CMC Vellore,Government,Tertiary,Tamil Nadu,1149,91,16,NABH & NABL,1998,287250,Yes
+H004,NIMHANS Bengaluru,Government,Tertiary,Karnataka,997,79,20,NABL,1997,249250,Yes
+H005,SGPGI Lucknow,Government,Tertiary,Uttar Pradesh,880,70,16,NABH,1966,220000,Yes
+H006,KEM Hospital Mumbai,Government,Tertiary,Maharashtra,1062,84,16,NABH & NABL,1964,265500,Yes
+H007,Nair Hospital Mumbai,Government,Secondary,Maharashtra,279,22,8,NABH & NABL,1951,69750,Yes
+H008,Sassoon General Pune,Government,Secondary,Maharashtra,225,18,9,NABH,1980,56250,Yes
+H009,Gandhi Hospital Hyderabad,Government,Secondary,Telangana,221,17,13,,1967,55250,Yes
+H010,Osmania General Hospital,Government,Secondary,Telangana,188,15,15,,1975,47000,Yes
+H011,RIMS Ranchi,Government,Secondary,Jharkhand,254,20,14,NABH & NABL,1987,63500,Yes
+H012,GMCH Guwahati,Government,Secondary,Assam,411,32,12,NABL,1979,102750,Yes
+H013,SMS Hospital Jaipur,Government,Tertiary,Rajasthan,1162,92,17,NABH & NABL,1988,290500,Yes
+H014,MB Hospital Udaipur,Government,Secondary,Rajasthan,345,27,15,NABL,2003,86250,Yes
+H015,ESI Hospital Chennai,Government,Secondary,Tamil Nadu,344,27,15,NABH & NABL,1990,86000,Yes
+H016,Stanley Hospital Chennai,Government,Secondary,Tamil Nadu,481,38,11,NABH & NABL,1955,120250,Yes
+H017,Safdarjung Hospital Delhi,Government,Tertiary,Delhi,637,50,19,NABH,1962,159250,Yes
+H018,RML Hospital Delhi,Government,Tertiary,Delhi,359,28,16,NABH & NABL,1972,89750,Yes
+H019,IPGME&R Kolkata,Government,Tertiary,West Bengal,693,55,19,NABH & NABL,1974,173250,Yes
+H020,NRS Medical College Kolkata,Government,Secondary,West Bengal,157,12,8,NABL,1996,39250,Yes
+H021,GMERS Hospital Ahmedabad,Government,Secondary,Gujarat,251,20,10,NABL,1961,62750,Yes
+H022,Civil Hospital Surat,Government,Secondary,Gujarat,183,14,14,NABH & NABL,1999,45750,Yes
+H023,JIPMER Puducherry,Government,Tertiary,Puducherry,454,36,19,NABH,1950,113500,Yes
+H024,Calicut Medical College,Government,Secondary,Kerala,369,29,14,,2003,92250,Yes
+H025,SCB Medical Cuttack,Government,Secondary,Odisha,264,21,9,NABH,1955,66000,Yes
+H026,MKCG Medical Berhampur,Government,Secondary,Odisha,231,18,14,NABH & NABL,1992,57750,Yes
+H027,Patna Medical College,Government,Secondary,Bihar,476,38,11,NABH & NABL,1969,119000,Yes
+H028,DMCH Darbhanga,Government,Secondary,Bihar,300,24,10,NABH,1958,75000,Yes
+H029,Government Medical College Nagpur,Government,Secondary,Maharashtra,297,23,11,NABH & NABL,2001,74250,Yes
+H030,LTMG Hospital Mumbai,Government,Tertiary,Maharashtra,495,39,19,NABH,1976,123750,Yes
